@@ -6,7 +6,7 @@
 
 
 - Sou Técnico em Eletronica, formado pela Escola Técnica Redentorias, de Campina Grande PB
-- Estou iniciando na área de Tecnoligia.
+- Estou iniciando na área de Tecnologia.
 - Graduando em Análise e Desenvolvimento de Sistemas - Estácio
 
 <div> 
